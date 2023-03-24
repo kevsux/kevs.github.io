@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kevs.github.io/static/css/main.f7dcbf4f.css",
+    "main.js": "/kevs.github.io/static/js/main.55bbe4b6.js",
+    "static/media/las.png": "/kevs.github.io/static/media/las.d476cc9f0ccb775b8b5b.png",
+    "index.html": "/kevs.github.io/index.html",
+    "main.f7dcbf4f.css.map": "/kevs.github.io/static/css/main.f7dcbf4f.css.map",
+    "main.55bbe4b6.js.map": "/kevs.github.io/static/js/main.55bbe4b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7dcbf4f.css",
+    "static/js/main.55bbe4b6.js"
+  ]
+}
